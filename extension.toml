@@ -1,0 +1,7 @@
+id = "relaxed-theme"
+name = "Relaxed"
+version = "0.1.0"
+schema_version = 1
+authors = ["Stefan Cosma <hi@stefancosma.xyz>"]
+description = "A port of the Relaxed VS Code theme by Michael Kühnel. Dark theme with easy on the eyes colors."
+repository = "https://github.com/stefanbc/relaxed-theme-zed"
