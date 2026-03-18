@@ -1,6 +1,6 @@
 # Relaxed Theme for Zed
 
-A dark theme for [Zed](https://zed.dev), ported from the popular [Relaxed](https://github.com/nickelc/relaxed-vscode) VSCode theme.
+A dark theme for [Zed](https://zed.dev), ported from the popular [Relaxed](https://github.com/Relaxed-Theme/vscode-theme-relaxed/) VSCode theme.
 
 Muted, warm tones on a deep grey background — built for long sessions without eye strain.
 
