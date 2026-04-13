@@ -25,7 +25,7 @@ Muted, warm tones on a deep grey background — built for long sessions without 
 
 1. Clone this repo into `~/.config/zed/themes/`:
    ```sh
-   git clone https://github.com/stefanbc/relaxed-zed-theme ~/.config/zed/themes/relaxed-zed-theme
+   git clone https://github.com/stefanbc/relaxed-theme-zed ~/.config/zed/themes/relaxed-theme-zed
    ```
 2. Restart Zed
 3. Open the theme picker (`cmd+k cmd+t`) and select **Relaxed**
