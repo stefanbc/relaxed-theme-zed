@@ -1,3 +1,9 @@
+> ## This repository has moved
+> It has joined the [Relaxed Theme organization](https://github.com/Relaxed-Theme) and found its new home [over here](https://github.com/Relaxed-Theme/zed-theme-relaxed).
+> Please open issues and pull requests there.
+
+---
+
 # Relaxed Theme for Zed
 
 A dark theme for [Zed](https://zed.dev), ported from the popular [Relaxed](https://github.com/Relaxed-Theme/vscode-theme-relaxed/) VSCode theme.
